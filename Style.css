@@ -1,0 +1,39 @@
+body{
+    background-color:#34495e;
+    color: #fff;
+}
+#superbad {
+  border-top: 3px white;
+  border-bottom: 2px white;
+  border-right: 3px white;
+  border-left: 2px white;
+  border-style: solid;
+  font-style: oblique;
+}
+#footer{
+  width: 50%;
+  float: left;
+}
+.first{
+  float:left;
+  width: 50%;
+  font-size: 30px;
+}
+.second{
+  float:left;
+  width: 50%;
+  font-size: 30px;
+}
+a
+{
+  border-top: 3px white; /* border is added around the menu to add style to the page*/
+  border-top-style: double;
+  border-bottom: 3px white;
+  border-bottom-style: double;
+  border-left: 3px white;
+  border-left-style: double;
+  border-right: 3px white;
+  border-right-style: double;
+  font-style: oblique;
+  font-size: 35px;
+}
